@@ -1,4 +1,3 @@
-
 Logistic Regression - Written by Giulia Nóbrega da Costa
 
 This Notebook implements Logistic Regression, a linear model used for binary classification by estimating probabilities with the logistic (sigmoid) function.

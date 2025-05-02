@@ -12,3 +12,5 @@ Although there is not an explicit order in which to read the notebooks, since th
 8) Boosting
 
 More about each method can be seen in their respective folders.
+
+- Giulia Nobrega da Costa

@@ -2,9 +2,7 @@ Here you can find the dataset on which most of the machine learning techniques w
 
 This is a well-known dataset from the sklearn.datasets module. It contains measurements from digitized images of fine needle aspirate (FNA) of breast masses.
 
-The goal is to classify whether a tumor is malignant (cancerous) or benign (non-cancerous) based on features computed from the images.
-
-It actually has 30 features! But here only 2 are evaluated in order to make the analysis simpler and easier to grasp.
+The goal is to classify whether a tumor is malignant (cancerous) or benign (non-cancerous) based on features computed from the images, reflected through 30 different features.
 
 The dataset is imported in the code using sklearn.datasets.load_breast_cancer(), but its original source is referenced as:
 
